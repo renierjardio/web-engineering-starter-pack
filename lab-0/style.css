@@ -3,11 +3,7 @@ body {
   margin: 0 auto;
 }
 
-address.sender-column {
-  text-align: right;
-}
-
-p.sender-column {
+.sender-column {
   text-align: right;
 }
 

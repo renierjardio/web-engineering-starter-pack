@@ -3,13 +3,12 @@ body {
   margin: 0 auto;
 }
 
-div.sender-column {
+address.sender-column {
   text-align: right;
-  font-style: italic;
 }
 
-div.receiver-column {
-  font-style: italic;
+p.sender-column {
+  text-align: right;
 }
 
 h1 {
